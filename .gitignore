@@ -2,6 +2,9 @@
 #Project Specific GitIgnore#
 ############################
 submodules/**
+dna.json
+settings.json
+Skynet.log
 ##########################
 #Linux Specific GitIgnore#
 ##########################
@@ -40,3 +43,4 @@ local.properties
 #Other
 ###########################
 *.out
+*.log
